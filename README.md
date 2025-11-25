@@ -1,10 +1,12 @@
-# 📚 Book Store Management System
+# 📚Book Store Management System
 
 A complete Python + MySQL based Book Store Management System that allows staff and users to manage inventory, purchase books, search books, view staff details, track sales, and handle income reports. This project is perfect for demonstrating Python database connectivity, CRUD operations, and structured menu-driven applications.
 
-## 🚀 Features
+---
 
-👨‍💼 Admin / Staff Functions
+## 🚀Features
+
+### 👨‍💼Admin / Staff Functions
 
 * Add new books
 
@@ -20,7 +22,7 @@ A complete Python + MySQL based Book Store Management System that allows staff a
 
 * Update book quantities
 
-👤 User Functions
+### 👤User Functions
 
 * Sign up & Login
 
@@ -37,6 +39,8 @@ A complete Python + MySQL based Book Store Management System that allows staff a
 * View available books
 
 * View staff details
+  
+--- 
 
 ## 🛠️Tech Stack
 
@@ -47,6 +51,7 @@ A complete Python + MySQL based Book Store Management System that allows staff a
 | Library   | mysql-connector-python |
 | Concepts  | CRUD, SQL Queries, Functions, Loops, Validation |
 
+---
 
 ## 📁 Project Structure
 
@@ -62,11 +67,15 @@ Book_Store_Management_System/
 
 └── .gitignore                                   # Ignored files
 
+---
+
 ## 🧩Install Dependencies 
 
 Install MySQL connector:
 
 pip install mysql-connector-python
+
+---
 
 ## 🗄️Database Setup
 
@@ -109,9 +118,12 @@ CREATE TABLE signup(
     password VARCHAR(50)
 );
 ```
+---
 
 ## ▶️Run the Program
 python "Library Management System.py"
+
+---
 
 ## 📌Future Improvements
 
@@ -124,6 +136,8 @@ python "Library Management System.py"
 * Add invoice generation
 
 * Add email notifications (optional)
+
+---
 
 ## 📜License
 
