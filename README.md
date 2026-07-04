@@ -34,7 +34,7 @@ menu-driven CLI.
 
 ## 🔎 Overview
 
-This started as a class-11 single-file script and has since been
+This started as a first year single-file script and has since been
 rebuilt into a proper modular application: six focused Python modules,
 parameterized SQL everywhere, hashed passwords, a real admin login
 system, and automatic invoice generation on every sale.
